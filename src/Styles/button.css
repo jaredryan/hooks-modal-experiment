@@ -1,0 +1,26 @@
+button {
+  height: var(--button-height);
+  font-weight: var(--button-font-weight);
+  font-size: var(--button-font-size);
+  border: var(--button-border);
+  border-radius: var(--button-border-radius);
+  padding: var(--button-padding);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+button:focus {
+  outline: 2px solid blue;
+}
+
+button.primary {
+  background-color: var(--button-color-primary);
+  color: var(--button-font-color-primary);
+}
+
+button.secondary {
+  background-color: var(--button-color-secondary);
+  color: var(--button-font-color-secondary);
+}
