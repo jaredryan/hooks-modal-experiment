@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hooks-modal-experiment/static/css/main.2b391daa.chunk.css",
+    "main.css": "/hooks-modal-experiment/static/css/main.c45b0a28.chunk.css",
     "main.js": "/hooks-modal-experiment/static/js/main.74a95662.chunk.js",
     "main.js.map": "/hooks-modal-experiment/static/js/main.74a95662.chunk.js.map",
     "runtime-main.js": "/hooks-modal-experiment/static/js/runtime-main.7ea790de.js",
@@ -8,13 +8,13 @@
     "static/js/2.553172ad.chunk.js": "/hooks-modal-experiment/static/js/2.553172ad.chunk.js",
     "static/js/2.553172ad.chunk.js.map": "/hooks-modal-experiment/static/js/2.553172ad.chunk.js.map",
     "index.html": "/hooks-modal-experiment/index.html",
-    "static/css/main.2b391daa.chunk.css.map": "/hooks-modal-experiment/static/css/main.2b391daa.chunk.css.map",
+    "static/css/main.c45b0a28.chunk.css.map": "/hooks-modal-experiment/static/css/main.c45b0a28.chunk.css.map",
     "static/js/2.553172ad.chunk.js.LICENSE.txt": "/hooks-modal-experiment/static/js/2.553172ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7ea790de.js",
     "static/js/2.553172ad.chunk.js",
-    "static/css/main.2b391daa.chunk.css",
+    "static/css/main.c45b0a28.chunk.css",
     "static/js/main.74a95662.chunk.js"
   ]
 }
