@@ -33,6 +33,10 @@ dialog section {
   margin: var(--dialog-content-vertical-padding) 0;
   overflow: scroll;
   max-height: 400px;
+
+  /* Overrides to make scroll bar appear at the right edge of the modal */
+  padding-right: var(--dialog-padding);
+  margin-right: calc(-1 * var(--dialog-padding));
 }
 
 dialog section p {
